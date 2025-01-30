@@ -14,7 +14,8 @@ A satellite tracking web application that uses React (with Vite) on the frontend
 
 ## Project Setup
 
-Follow these steps to set up the project locally.
+Follow these steps to set up the project locally, errr, here is how to make this app.  
+Setting it up and using it are two different things.  This will just be served on the web.
 
 ### Frontend
 
