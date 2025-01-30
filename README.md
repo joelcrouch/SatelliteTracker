@@ -125,6 +125,9 @@ Optimize the frontend for mobile devices
 
     Add additional satellite data (e.g., altitude, orbital period)
 
+
+Milestone 6:  Make that website more attractive.
+Add background, better graphics, etc
 Technologies
 
     Frontend: React, Vite, TypeScript, Axios, React-Leaflet, Leaflet
